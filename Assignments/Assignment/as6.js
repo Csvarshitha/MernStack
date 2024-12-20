@@ -8,16 +8,16 @@ function palindrome(str){
     
     while(str1 < str2)
     {
-        if(str.str1 === str.str2){
-            return true;
+        if(str.str1 != str.str2){
+            return false;
             
         }
        
-    } return false;
+    } return true;
         
 }  
 
 
-console.log(palindrome("noon"));
+console.log(palindrome("moon"));
 
 

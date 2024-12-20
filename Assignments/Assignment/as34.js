@@ -1,0 +1,1 @@
+// Write a function to find how many times each element is repeated in an array.

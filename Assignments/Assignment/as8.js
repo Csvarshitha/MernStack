@@ -1,14 +1,14 @@
 // Write a function to find the maximum number in an array.
-num = [1,2,6,7,5,4,3]
+
+
+
+let num = [1,2,3,3,4,8,2]
 function max(num){
-    let num1 = 0
-    for(let i=0;i<=num.lenght-1;i++)
-    {
-        if(a[i] > a[i+1])
-        {
-            num1 = a[i]
+    for(let i=0;i<=num.length-1;i++){
+        if(num[i] > num[i+1]){
+            console.log(num[i]);
+            break;
         }
     }
-    console.log(num1);
 }
-console.log(max(num));
+max(num)
