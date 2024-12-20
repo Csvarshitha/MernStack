@@ -12,7 +12,7 @@ const people = [
     { name: "Eve", age: 20 }  ];
 
     let people1 = people.filter(function(people){
-        if(people.age>=18){
+        if(people.age >= 18){
             return people
         }
     })
@@ -21,4 +21,5 @@ const people = [
     let people2 = people1.map(function(people)
     {return people.name})
     console.log(people2);
+    
     //  let people2 = people1.map(person => person.name)  => by using arrow function

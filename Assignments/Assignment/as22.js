@@ -1,0 +1,1 @@
+// Count the occurrences of each unique character in the string

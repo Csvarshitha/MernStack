@@ -1,4 +1,4 @@
-// Find a = [3,7,8,6,2,5] maximum and minimum number in array
+//  Find a = [3,7,8,6,2,5] maximum and minimum number in array
 
 let a = [3,7,8,6,2,5]
 

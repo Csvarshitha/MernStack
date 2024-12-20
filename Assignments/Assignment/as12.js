@@ -1,0 +1,1 @@
+// Write a program to add zeros after every 3 values in an array.

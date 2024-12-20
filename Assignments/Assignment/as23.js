@@ -1,0 +1,1 @@
+// Write a function to find the second maximum and minimum numbers in an array.
